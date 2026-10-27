@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Site-Shot is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.site-shot.com
+Site-Shot provides a website screenshot service that captures any URL as an image (PNG, JPEG, WebP) via a simple HTTP API. The service offers free online screenshots without signup, as well as paid plans for higher volume, custom viewport, geolocation, scheduling, and API key access. It supports multiple programming languages with code samples, and runs on a real Chromium engine for pixel‑perfect results. The platform emphasizes reliability with 99.9% uptime, scalable infrastructure, and worldwide proxy locations.
+
+**Areas:** Company · Screenshot · API · Automation · Web
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.site-shot.com)
+- [Documentation](https://www.site-shot.com/api/v1/agent/docs/mcp.md)
+- [Getting started](https://www.site-shot.com/start/)
+- [Pricing](https://www.site-shot.com/pricing/)
+- [Sign up](https://www.site-shot.com/account/login/)
+- [Blog](https://www.site-shot.com/blog/)
+- [Terms of service](https://www.site-shot.com/terms-of-use/)
+- [Privacy policy](https://www.site-shot.com/privacy-policy/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/site-shot/](https://apis.io/providers/site-shot/).
